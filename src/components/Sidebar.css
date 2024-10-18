@@ -1,0 +1,12 @@
+.sidebar:hover{
+background-color:black;
+
+}
+.sidebar{
+    width: 160px;
+    border-radius: 10px;
+  
+}
+.mainsidebar{
+    border-radius: 0px 10px 10px 0px;
+}
